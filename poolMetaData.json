@@ -1,6 +1,8 @@
 {
-    "name": "ADA JAPAN POOL",
-    "description": "ADA JAPAN POOLは、日本と世界のカルダノコミュニティをつなぐ架け橋となることを目指します。ぜひ、「ADAJP」への委任をお願いいたします。",
-    "ticker": "ADAJP",
-    "homepage": "https://ada-japan-pool-3m2szyz.gamma.site/"
+  "name": "ADA JAPAN POOL",
+  "description": "ADA JAPAN POOLは、日本と世界のカルダノコミュニティをつなぐ架け橋となることを目指します。ぜひ、「ADAJP」への委任をお願いいたします。",
+  "ticker": "ADAJP",
+  "homepage": "https://ada-japan-pool-3m2szyz.gamma.site/",
+  "extended": "",
+  "nonce":"1781147975"
 }
